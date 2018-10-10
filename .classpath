@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-core-3.5.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (2)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/guice-4.2.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/jansi-1.17.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-artifact-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-builder-support-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-compat-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-embedder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-model-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-model-builder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-plugin-api-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-repository-metadata-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-resolver-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-resolver-connector-basic-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-resolver-impl-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-resolver-provider-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-resolver-spi-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-resolver-transport-wagon-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-resolver-util-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-settings-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-settings-builder-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-shared-utils-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/maven-slf4j-provider-3.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/org.eclipse.sisu.inject-0.3.3.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/org.eclipse.sisu.plexus-0.3.3.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/plexus-cipher-1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/plexus-component-annotations-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/plexus-interpolation-1.24.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/plexus-sec-dispatcher-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/plexus-utils-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/wagon-file-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/wagon-http-3.1.0-shaded.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-maven-3.5.4/lib/wagon-provider-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/ecj-4.7.3a.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="/Users/otofuji/eclipse/apache-tomcat-9.0.12/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
